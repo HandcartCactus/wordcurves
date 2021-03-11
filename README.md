@@ -1,2 +1,2 @@
 # wordcurves
-Coming soon
+Coming soon. See the `examples` folder for uses.
